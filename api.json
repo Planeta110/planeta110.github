@@ -1,0 +1,11 @@
+{
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "edad": 30,
+    "ocupación": "Ingeniero de software",
+    "ubicación": {
+      "ciudad": "Ciudad de México",
+      "país": "México"
+    },
+    "intereses": ["programación", "lectura", "viajes"]
+}

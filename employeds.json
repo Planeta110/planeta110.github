@@ -1,0 +1,159 @@
+{
+    "backends": [
+      {
+        "nombre": "Juan Pérez",
+        "edad": 35,
+        "tiempo_en_empresa": "4 años"
+      },
+      {
+        "nombre": "María García",
+        "edad": 28,
+        "tiempo_en_empresa": "2 años"
+      },
+      {
+        "nombre": "Luis González",
+        "edad": 33,
+        "tiempo_en_empresa": "6 años"
+      },
+      {
+        "nombre": "Ana López",
+        "edad": 31,
+        "tiempo_en_empresa": "3 años"
+      },
+      {
+        "nombre": "Pablo Martínez",
+        "edad": 29,
+        "tiempo_en_empresa": "5 años"
+      },
+      {
+        "nombre": "Sofía Rodríguez",
+        "edad": 34,
+        "tiempo_en_empresa": "4 años"
+      },
+      {
+        "nombre": "Diego Hernández",
+        "edad": 32,
+        "tiempo_en_empresa": "2 años"
+      },
+      {
+        "nombre": "Carmen Sánchez",
+        "edad": 30,
+        "tiempo_en_empresa": "4 años"
+      },
+      {
+        "nombre": "Javier Pérez",
+        "edad": 27,
+        "tiempo_en_empresa": "3 años"
+      },
+      {
+        "nombre": "Elena García",
+        "edad": 36,
+        "tiempo_en_empresa": "5 años"
+      }
+    ],
+    "frontends": [
+      {
+        "nombre": "Carlos López",
+        "edad": 30,
+        "tiempo_en_empresa": "3 años"
+      },
+      {
+        "nombre": "Ana Martínez",
+        "edad": 32,
+        "tiempo_en_empresa": "5 años"
+      },
+      {
+        "nombre": "Miguel Gómez",
+        "edad": 29,
+        "tiempo_en_empresa": "4 años"
+      },
+      {
+        "nombre": "Laura Díaz",
+        "edad": 28,
+        "tiempo_en_empresa": "2 años"
+      },
+      {
+        "nombre": "Isabel Ruiz",
+        "edad": 31,
+        "tiempo_en_empresa": "3 años"
+      },
+      {
+        "nombre": "Francisco Torres",
+        "edad": 33,
+        "tiempo_en_empresa": "6 años"
+      },
+      {
+        "nombre": "Patricia Ramírez",
+        "edad": 26,
+        "tiempo_en_empresa": "1 año"
+      },
+      {
+        "nombre": "Alejandro Castro",
+        "edad": 34,
+        "tiempo_en_empresa": "4 años"
+      },
+      {
+        "nombre": "Natalia Ortega",
+        "edad": 27,
+        "tiempo_en_empresa": "2 años"
+      },
+      {
+        "nombre": "Adrián Navarro",
+        "edad": 35,
+        "tiempo_en_empresa": "5 años"
+      }
+    ],
+    "fullstacks": [
+      {
+        "nombre": "Pedro Rodríguez",
+        "edad": 29,
+        "tiempo_en_empresa": "3 años"
+      },
+      {
+        "nombre": "Laura Sánchez",
+        "edad": 31,
+        "tiempo_en_empresa": "4 años"
+      },
+      {
+        "nombre": "Roberto Fernández",
+        "edad": 26,
+        "tiempo_en_empresa": "2 años"
+      },
+      {
+        "nombre": "Eva Moreno",
+        "edad": 30,
+        "tiempo_en_empresa": "5 años"
+      },
+      {
+        "nombre": "David Jiménez",
+        "edad": 32,
+        "tiempo_en_empresa": "6 años"
+      },
+      {
+        "nombre": "Cristina Pérez",
+        "edad": 28,
+        "tiempo_en_empresa": "4 años"
+      },
+      {
+        "nombre": "Manuel Gutiérrez",
+        "edad": 33,
+        "tiempo_en_empresa": "3 años"
+      },
+      {
+        "nombre": "Raquel Castro",
+        "edad": 27,
+        "tiempo_en_empresa": "2 años"
+      },
+      {
+        "nombre": "Jorge Ruiz",
+        "edad": 34,
+        "tiempo_en_empresa": "4 años"
+      },
+      {
+        "nombre": "Lucía Martínez",
+        "edad": 35,
+        "tiempo_en_empresa": "5 años"
+      }
+    ]
+  }
+  

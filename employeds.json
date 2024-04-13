@@ -59,6 +59,66 @@
       "edad": 36,
       "tiempo_en_empresa": "5 años",
       "rol": "backend"
+    },
+    {
+      "nombre": "Andrés González",
+      "edad": 29,
+      "tiempo_en_empresa": "2 años",
+      "rol": "backend"
+    },
+    {
+      "nombre": "Patricia Fernández",
+      "edad": 33,
+      "tiempo_en_empresa": "6 años",
+      "rol": "backend"
+    },
+    {
+      "nombre": "Santiago Martínez",
+      "edad": 26,
+      "tiempo_en_empresa": "3 años",
+      "rol": "backend"
+    },
+    {
+      "nombre": "Marta López",
+      "edad": 31,
+      "tiempo_en_empresa": "5 años",
+      "rol": "backend"
+    },
+    {
+      "nombre": "Carlos Ruiz",
+      "edad": 28,
+      "tiempo_en_empresa": "4 años",
+      "rol": "backend"
+    },
+    {
+      "nombre": "Silvia Pérez",
+      "edad": 34,
+      "tiempo_en_empresa": "2 años",
+      "rol": "backend"
+    },
+    {
+      "nombre": "Jorge García",
+      "edad": 30,
+      "tiempo_en_empresa": "4 años",
+      "rol": "backend"
+    },
+    {
+      "nombre": "Laura Martínez",
+      "edad": 27,
+      "tiempo_en_empresa": "3 años",
+      "rol": "backend"
+    },
+    {
+      "nombre": "Manuel Sánchez",
+      "edad": 35,
+      "tiempo_en_empresa": "5 años",
+      "rol": "backend"
+    },
+    {
+      "nombre": "Ana Torres",
+      "edad": 32,
+      "tiempo_en_empresa": "6 años",
+      "rol": "backend"
     }
   ],
   "frontends": [
@@ -121,6 +181,66 @@
       "edad": 35,
       "tiempo_en_empresa": "5 años",
       "rol": "frontend"
+    },
+    {
+      "nombre": "Marina Sánchez",
+      "edad": 29,
+      "tiempo_en_empresa": "3 años",
+      "rol": "frontend"
+    },
+    {
+      "nombre": "Diego López",
+      "edad": 32,
+      "tiempo_en_empresa": "5 años",
+      "rol": "frontend"
+    },
+    {
+      "nombre": "Elena Martínez",
+      "edad": 27,
+      "tiempo_en_empresa": "4 años",
+      "rol": "frontend"
+    },
+    {
+      "nombre": "Roberto Torres",
+      "edad": 30,
+      "tiempo_en_empresa": "2 años",
+      "rol": "frontend"
+    },
+    {
+      "nombre": "Beatriz Rodríguez",
+      "edad": 33,
+      "tiempo_en_empresa": "4 años",
+      "rol": "frontend"
+    },
+    {
+      "nombre": "Javier García",
+      "edad": 28,
+      "tiempo_en_empresa": "3 años",
+      "rol": "frontend"
+    },
+    {
+      "nombre": "Sara Gómez",
+      "edad": 31,
+      "tiempo_en_empresa": "5 años",
+      "rol": "frontend"
+    },
+    {
+      "nombre": "Daniel Ruiz",
+      "edad": 26,
+      "tiempo_en_empresa": "2 años",
+      "rol": "frontend"
+    },
+    {
+      "nombre": "Lorena Pérez",
+      "edad": 34,
+      "tiempo_en_empresa": "4 años",
+      "rol": "frontend"
+    },
+    {
+      "nombre": "Raúl Martínez",
+      "edad": 30,
+      "tiempo_en_empresa": "5 años",
+      "rol": "frontend"
     }
   ],
   "fullstacks": [
@@ -180,6 +300,66 @@
     },
     {
       "nombre": "Lucía Martínez",
+      "edad": 35,
+      "tiempo_en_empresa": "5 años",
+      "rol": "fullstack"
+    },
+    {
+      "nombre": "Sergio Gómez",
+      "edad": 29,
+      "tiempo_en_empresa": "3 años",
+      "rol": "fullstack"
+    },
+    {
+      "nombre": "María Torres",
+      "edad": 31,
+      "tiempo_en_empresa": "4 años",
+      "rol": "fullstack"
+    },
+    {
+      "nombre": "Daniel Pérez",
+      "edad": 26,
+      "tiempo_en_empresa": "2 años",
+      "rol": "fullstack"
+    },
+    {
+      "nombre": "Sandra García",
+      "edad": 30,
+      "tiempo_en_empresa": "5 años",
+      "rol": "fullstack"
+    },
+    {
+      "nombre": "Diego Martínez",
+      "edad": 32,
+      "tiempo_en_empresa": "6 años",
+      "rol": "fullstack"
+    },
+    {
+      "nombre": "Carmen López",
+      "edad": 28,
+      "tiempo_en_empresa": "4 años",
+      "rol": "fullstack"
+    },
+    {
+      "nombre": "José Ruiz",
+      "edad": 33,
+      "tiempo_en_empresa": "3 años",
+      "rol": "fullstack"
+    },
+    {
+      "nombre": "Ana Sánchez",
+      "edad": 27,
+      "tiempo_en_empresa": "2 años",
+      "rol": "fullstack"
+    },
+    {
+      "nombre": "Fernando Martínez",
+      "edad": 34,
+      "tiempo_en_empresa": "4 años",
+      "rol": "fullstack"
+    },
+    {
+      "nombre": "María Pérez",
       "edad": 35,
       "tiempo_en_empresa": "5 años",
       "rol": "fullstack"

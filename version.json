@@ -1,0 +1,35 @@
+{
+    "versions": [
+        {
+            "version": "0.3.0",
+            "date": "Sep 29, 2023",
+            "notes": "La beta 0.3 !! Ya esta disponible con cambios en la página principal!!!!!  Entra aver la pagina YA!!!!! planeta110.github.io"
+        },
+        {
+            "version": "0.6.0",
+            "date": "Nov 9, 2023",
+            "notes": "Nos complace anunciar la creación de nuestro nuevo juego: Cookie Clicker. Este adictivo y entretenido juego ha sido diseñado para ofrecer horas de diversión mientras haces clic para recolectar cookies y mejorar tus habilidades."
+        },
+        {
+            "version": "0.7.0",
+            "date": "Nov 18, 2023",
+            "notes": "Nos complace anunciar el lanzamiento de la versión Beta 0.8.2 de nuestra nueva aplicación: Calculadora de Portales de Minecraft. Esta herramienta innovadora ha sido diseñada para ayudar a los jugadores de Minecraft a calcular de manera precisa y eficiente las coordenadas y ubicaciones de los portales en el juego."
+        },
+        {
+            "version": "0.8.0",
+            "date": "Nov 27, 2023",
+            "notes": "Se agrego un juego que ya no esta disponible que era de GDeveloper."
+        },
+        {
+            "version": "0.9.0",
+            "date": "No hay fecha disponible",
+            "notes": "Se ha agregado un sistema que detecta si tu navegador es compatible. Si se detectan diversos comportamientos, te banea en Cookie Clicker."
+        },
+        {
+            "version": "1.0.0",
+            "date": "23/03/2024 13:01",
+            "notes": "Nueva Pagina Principal"
+        }
+        
+    ]
+}
